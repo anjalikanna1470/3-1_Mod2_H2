@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">
+        Context Flow Lab
+    </string>
+
+    <string name="new_chat">
+        New Chat
+    </string>
+
+    <string name="send">
+        Send
+    </string>
+
+    <string name="message_hint">
+        Type a message…
+    </string>
+
+    <string name="context_hint">
+        Multi-turn chatbot • Follow-up questions keep the same conversation context.
+    </string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="first_fragment_label">First Fragment</string>
+
+    <string name="second_fragment_label">Second Fragment</string>
+
+</resources>

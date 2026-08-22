@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="primary">#4F46E5</color>
+
+    <color name="screen_background">
+        #F5F7FB
+    </color>
+
+    <color name="user_bubble">
+        #E0E7FF
+    </color>
+
+    <color name="assistant_bubble">
+        #FFFFFF
+    </color>
+
+    <color name="error_bubble">
+        #FEE2E2
+    </color>
+
+    <color name="divider">
+        #D9DDE7
+    </color>
+
+    <color name="text_primary">
+        #172033
+    </color>
+
+    <color name="text_secondary">
+        #667085
+    </color>
+
+</resources>
